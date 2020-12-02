@@ -59,3 +59,11 @@ Best of Titans Shooter Game New Update Version 2.0
 
  -Daha Hızlı Jenerik
  -Daha Hızlı Photon Aktarımı
+
+
+ARALIK 2 UPDATE
+-YENİ MAP GELDİ ARENA MEDİUM
+
+-TEAM DEATHMATCH TAMAMLANDI
+
+-KAMERA AYARLARI DÜZELTİLDİ
